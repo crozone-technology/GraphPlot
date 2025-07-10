@@ -22,7 +22,7 @@ It helps engineers, students, and researchers digitize plots from scanned docume
 ---
 
 ## 🚀 How to Use
-
+Shortcut key F1 - Help, F12 - About
 1. **Upload Graph Image**  
    Click `📂 Upload Graph Image` and choose your file.
 
@@ -40,4 +40,4 @@ It helps engineers, students, and researchers digitize plots from scanned docume
 
 5. **Save or Reload Project**  
    - Use `💾 Save Project` to keep progress  
-   - Use `📂 Load Project` to continue from a `.json` file
+   - Use `📂 Load Project` to continue from a `.gpp` file
